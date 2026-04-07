@@ -1,4 +1,4 @@
-# doonesbury
+# garfield
 
 To install dependencies:
 
